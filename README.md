@@ -83,9 +83,9 @@
 
 ### ***1. доступность, ARIA аттрибуты***
 
-[doka](https://doka.guide/a11y/aria-attrs/)
+https://doka.guide/a11y/aria-attrs
 
-[mozilla](https://developer.mozilla.org/ru/docs/Web/Accessibility/ARIA/)
+https://developer.mozilla.org/ru/docs/Web/Accessibility/ARIA
 
 ARIA-атрибуты — это группа дополнительных атрибутов из спецификации WAI-ARIA, которая состоит из свойств и состояний.
 
